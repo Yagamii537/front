@@ -1,0 +1,29 @@
+.producto-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #0D6EFD;
+    color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.producto-name {
+    font-size: 2em;
+    font-weight: bold;
+    color: #00eaff;
+    margin-bottom: 10px;
+}
+
+.producto-precio {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.producto-stock {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
